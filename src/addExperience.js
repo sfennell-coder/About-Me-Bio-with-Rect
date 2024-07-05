@@ -1,3 +1,5 @@
+// Add experience for experience section
+
 export default function AddExperience({jobTitle, companyName, duration}){
     <div>
         <ul>

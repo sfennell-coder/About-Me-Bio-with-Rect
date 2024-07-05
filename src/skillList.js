@@ -1,6 +1,6 @@
-// skill section
+// skill  list section
 
-import AddSkills from './addSkill.js';
+import AddSkill from './addSkill.js';
 export default function SkillList({skills}){
     return(
         <div>

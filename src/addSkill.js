@@ -1,4 +1,4 @@
-// Add skill section for skill list
+// Add skill for skill list section
 
 export default function Addskill({name, profiency}){
     return(
