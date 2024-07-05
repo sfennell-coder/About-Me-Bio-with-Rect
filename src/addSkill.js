@@ -1,11 +1,11 @@
 // Add skill for skill list section
 
-export default function Addskill({name, profiency}){
+export default function Addskill({name, proficiency}){
     return(
         <div>
             <p>
                 <ul>
-                    <li>{name}: {profiency}</li>
+                    <li>{name}: {proficiency}</li>
                 </ul>
             </p>
         </div>

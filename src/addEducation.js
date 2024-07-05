@@ -7,7 +7,7 @@ export default function AddEducation({inst, deg, yr}){
                 <li>
                     <p><strong>{inst}</strong></p>
                     <p>{deg}</p>
-                    <p>{yr}</p>
+                    <p><em>{yr}</em></p>
                 </li>
             </ul>
         </div>
